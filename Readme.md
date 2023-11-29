@@ -54,15 +54,15 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-185-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-189-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 kB Used in GitHub's Storage 
  > 
-> 🏆 58 Contributions in the Year 2023
+> 🏆 60 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -73,11 +73,11 @@
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-GDScript                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+GDScript                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
