@@ -19,3 +19,6 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 
 <hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
