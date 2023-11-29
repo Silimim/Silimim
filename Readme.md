@@ -1,9 +1,7 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-
 ![Typing SVG](https://github.com/Silimim/Silimim/blob/main/assets/silimim_small.gif)
 
 ###
-<h2 align="center">👨🏽‍💻 About Me 👨🏽‍💻</h2><br>
+<h3 align="center">👨🏽‍💻 About Me 👨🏽‍💻</h3><br>
 <p align="center">
   Hi, I'm Simone Baptiste, Full Stack Developer based in Bergamo, Italy.
   <br>
@@ -20,7 +18,7 @@
 <a href="mailto:baptistesimone19@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail" /></a>
 </p>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
+<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3><br>
 <p align="center">
 <img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
