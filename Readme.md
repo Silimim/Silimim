@@ -54,4 +54,38 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.5%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 40 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+GDScript                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Silimim/Silimim/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/11/2023 11:10:42 UTC
 <!--END_SECTION:waka-->
