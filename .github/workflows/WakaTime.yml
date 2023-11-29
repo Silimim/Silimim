@@ -17,3 +17,8 @@ jobs:
           SHOW_LINES_OF_CODE: true
           SHOW_OS: false
           SHOW_PROJECTS: false
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_COMMIT: true
+          SHOW_LANGUAGE: true
+          SHOW_LOC_CHART: false
+          SHOW_UPDATED_DATE: false
