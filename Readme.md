@@ -13,43 +13,43 @@
   📫 How to contact me 👇
 </p>
 <p align="center">
-<a style="margin-right: 10px" href="https://www.linkedin.com/in/simone-baptiste-5b5668199/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
-<a style="margin-right: 10px" href="https://www.instagram.com/simone_baptiste/"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /></a>
-<a href="mailto:baptistesimone19@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail" /></a>
+<a href="https://www.linkedin.com/in/simone-baptiste-5b5668199/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;
+<a href="https://www.instagram.com/simone_baptiste/"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /></a>&nbsp;
+<a href="mailto:baptistesimone19@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail" /></a>&nbsp;
 </p>
 <hr>
 <h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3><br>
 <p align="center">
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/dart" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/dart" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />&nbsp;
 </p>
 <p align="center">
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/angular" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/springboot" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/unity" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/godotengine" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/angular" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/springboot" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/unity" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/godotengine" />&nbsp;
 </p>
 <p align="center">
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />&nbsp;
 </p>
 <p align="center">
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/git" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/github" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/intellijidea" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator" />
-<img style="margin-right: 5px" height="32" width="32" src="https://cdn.simpleicons.org/figma" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/github" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/figma" />&nbsp;
 </p>
 <hr>
 
