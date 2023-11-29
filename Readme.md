@@ -54,7 +54,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-185-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.5%20thousand%20lines%20of%20code-blue)
 
@@ -64,7 +64,7 @@
  > 
 > 🏆 58 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
