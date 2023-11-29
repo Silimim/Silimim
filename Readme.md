@@ -60,9 +60,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 2.9 kB Used in GitHub's Storage 
+> 📦 3.0 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2023
+> 🏆 58 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,10 +82,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Silimim/Silimim/main/assets/bar_graph.png)
-
-
- Last Updated on 29/11/2023 11:10:42 UTC
 <!--END_SECTION:waka-->
