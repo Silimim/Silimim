@@ -27,6 +27,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/dart" />&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />&nbsp;
+<img height="32" width="32" src="https://github.com/Silimim/Silimim/blob/main/assets/java.svg" />&nbsp;
 </p>
 <p align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/angular" />&nbsp;
