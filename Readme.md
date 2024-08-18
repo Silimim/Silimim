@@ -53,7 +53,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -98,10 +98,14 @@ Sunday                   10 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 1 min          ███████████████████░░░░░░   77.92 % 
+Vue.js                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
