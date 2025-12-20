@@ -53,7 +53,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C034%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C034%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,10 +98,14 @@ Sunday                   20 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PowerShell               10 mins             ███████████████░░░░░░░░░░   61.64 % 
+TypeScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Go                       2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
