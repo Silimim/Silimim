@@ -98,10 +98,12 @@ Sunday                   15 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               10 mins             █████████████████████████   99.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
