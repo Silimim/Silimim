@@ -106,47 +106,70 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C045%20hrs%2021%20mins-00c2ff?style=for-the-badge)
-![Lines of code](https://img.shields.io/badge/Lines%20Written-15.41M-00c2ff?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C045%20hrs%2021%20mins-blue?style=flat)
 
-**🐱 GitHub Snapshot**
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-> 📦 223.6 kB used in GitHub's storage  
-> 🏆 132 contributions in 2026  
-> 💼 Opted to hire  
-> 📜 8 public repositories  
-> 🔑 12 private repositories  
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.97%20million%20lines%20of%20code-blue?style=flat)
 
-**🐤 I'm an Early Bird**
+**🐱 My GitHub Data** 
 
-```text
-🌞 Morning     1125 commits   ███████░░░░░░░░░░░░░░░░░░   29.40 %
-🌆 Daytime     2564 commits   █████████████████░░░░░░░░   67.00 %
-🌃 Evening      121 commits   █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-🌙 Night         17 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %`
-```
-
-📅 **Most Productive on Thursdays**
+> 📦 227.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 147 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-Monday      699 commits  █████░░░░░░░░░░░░░░░░░░░░  18.26 %
-Tuesday     816 commits  █████░░░░░░░░░░░░░░░░░░░░  21.32 %
-Wednesday   565 commits  ████░░░░░░░░░░░░░░░░░░░░░  14.76 %
-Thursday   1128 commits  ███████░░░░░░░░░░░░░░░░░░  29.47 %
-Friday      562 commits  ████░░░░░░░░░░░░░░░░░░░░░  14.69 %
-Saturday     42 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░  01.10 %
-Sunday       15 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░  00.39 %
+🌞 Morning                1045 commits        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+🌆 Daytime                2413 commits        █████████████████░░░░░░░░   67.12 % 
+🌃 Evening                120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
-
-**🧠 I Mostly Code In**
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-TypeScript   20 repos  ██████████░░░░░░░░░░░░░░░  38.46 %
-Go            8 repos  ████░░░░░░░░░░░░░░░░░░░░░  15.38 %
-Python        4 repos  ██░░░░░░░░░░░░░░░░░░░░░░░  07.69 %
-Dart          2 repos  █░░░░░░░░░░░░░░░░░░░░░░░░  03.85 %
-GDScript      2 repos  █░░░░░░░░░░░░░░░░░░░░░░░░  03.85 %
+Monday                   641 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Tuesday                  784 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Wednesday                528 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Thursday                 1078 commits        ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+Friday                   507 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Saturday                 42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Sunday                   15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   39.62 % 
+Go                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+GDScript                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 ---
