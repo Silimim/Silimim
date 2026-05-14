@@ -22,7 +22,7 @@
 const simone = {
   pronouns: "he" | "him",
   location: "Bergamo, Italy 🇮🇹",
-  role: "Full Stack Developer",
+  role: "Full Stack DevOps",
   code: ["TypeScript", "Java", "Dart", "Go", "GDScript"],
   currentFocus: ["Software Engineering", "Game Development"],
   passions: ["Explore technologies", "Art", "Side projects at 2AM"],
