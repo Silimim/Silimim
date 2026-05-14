@@ -104,7 +104,7 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C103%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C108%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -114,7 +114,7 @@ const simone = {
 
 > 📦 229.7 kB Used in GitHub's Storage 
  > 
-> 🏆 197 Contributions in the Year 2026
+> 🏆 198 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -122,46 +122,6 @@ const simone = {
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1145 commits        ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-🌆 Daytime                2582 commits        █████████████████░░░░░░░░   66.70 % 
-🌃 Evening                126 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   684 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Tuesday                  841 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Wednesday                585 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Thursday                 1144 commits        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-Friday                   557 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Saturday                 43 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Sunday                   17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-GDScript3                4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Go                       3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-TypeScript               2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-GDScript                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-HTML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-
-🔥 Editors: 
-Rider                    6 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.65 % 
-GoLand                   4 hrs               ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-WebStorm                 3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-IntelliJ IDEA            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
