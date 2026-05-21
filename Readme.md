@@ -104,17 +104,17 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C133%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C136%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.86%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 238.9 kB Used in GitHub's Storage 
+> 📦 239.0 kB Used in GitHub's Storage 
  > 
-> 🏆 257 Contributions in the Year 2026
+> 🏆 263 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -122,46 +122,6 @@ const simone = {
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1155 commits        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-🌆 Daytime                2656 commits        ████████████████░░░░░░░░░   65.08 % 
-🌃 Evening                248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   693 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Tuesday                  849 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Wednesday                592 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 1179 commits        ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Friday                   638 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Saturday                 83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Sunday                   47 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-Go                       8 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-TypeScript               5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-GDScript3                3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-SQL                      3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-HTML                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-
-🔥 Editors: 
-GoLand                   12 hrs 41 mins      ███████████░░░░░░░░░░░░░░   43.02 % 
-WebStorm                 8 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-Rider                    8 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-IntelliJ IDEA            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
