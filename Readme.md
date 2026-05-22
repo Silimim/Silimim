@@ -104,17 +104,15 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C136%20hrs%2021%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.86%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 239.0 kB Used in GitHub's Storage 
  > 
-> 🏆 263 Contributions in the Year 2026
+> 🏆 267 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -122,6 +120,46 @@ const simone = {
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1155 commits        ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+🌆 Daytime                2627 commits        ████████████████░░░░░░░░░   65.56 % 
+🌃 Evening                205 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   689 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Tuesday                  845 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Wednesday                594 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Thursday                 1167 commits        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+Friday                   611 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Saturday                 66 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Sunday                   35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Go                       6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+GDScript3                4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+TypeScript               4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+GDScript                 3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+HTML                     3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+
+🔥 Editors: 
+GoLand                   9 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.69 % 
+Rider                    8 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
+WebStorm                 7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
