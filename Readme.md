@@ -125,20 +125,20 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1312 commits        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-🌆 Daytime                3040 commits        ███████████████░░░░░░░░░░   61.55 % 
-🌃 Evening                493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+🌞 Morning                1316 commits        ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+🌆 Daytime                3040 commits        ███████████████░░░░░░░░░░   61.50 % 
+🌃 Evening                493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 🌙 Night                  94 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   791 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Tuesday                  968 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Wednesday                768 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Thursday                 1356 commits        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-Friday                   790 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Monday                   795 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Tuesday                  968 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Wednesday                768 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Thursday                 1356 commits        ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Friday                   790 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Saturday                 149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 Sunday                   117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 
