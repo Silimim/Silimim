@@ -108,13 +108,13 @@ const simone = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.62%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 199.2 kB Used in GitHub's Storage 
  > 
-> 🏆 382 Contributions in the Year 2026
+> 🏆 385 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -125,21 +125,21 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1316 commits        ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-🌆 Daytime                3040 commits        ███████████████░░░░░░░░░░   61.50 % 
-🌃 Evening                493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-🌙 Night                  94 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+🌞 Morning                1316 commits        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌆 Daytime                2989 commits        ████████████████░░░░░░░░░   63.87 % 
+🌃 Evening                333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   795 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Tuesday                  968 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Wednesday                768 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Thursday                 1356 commits        ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Friday                   790 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Saturday                 149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Sunday                   117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Monday                   795 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Tuesday                  945 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Wednesday                699 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Thursday                 1292 commits        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+Friday                   747 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Saturday                 133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Sunday                   69 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
@@ -149,15 +149,15 @@ Sunday                   117 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
-JSON                     2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-TypeScript               2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-HTML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Java                     3 hrs               ███████████░░░░░░░░░░░░░░   43.02 % 
+TypeScript               2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+JSON                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+HTML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 45 mins       █████████████████░░░░░░░░   69.03 % 
-WebStorm                 3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.97 % 
+IntelliJ IDEA            4 hrs 8 mins        ███████████████░░░░░░░░░░   59.34 % 
+WebStorm                 2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.66 % 
 ```
 
 **I Mostly Code in TypeScript** 
