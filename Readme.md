@@ -125,20 +125,20 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1324 commits        ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-🌆 Daytime                2992 commits        ████████████████░░░░░░░░░   63.78 % 
-🌃 Evening                333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+🌞 Morning                1324 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+🌆 Daytime                2995 commits        ████████████████░░░░░░░░░   63.80 % 
+🌃 Evening                333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   795 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Tuesday                  945 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Wednesday                699 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Thursday                 1303 commits        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Friday                   747 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Saturday                 133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Monday                   795 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Tuesday                  947 commits         █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Wednesday                699 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Thursday                 1303 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+Friday                   748 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Saturday                 133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 Sunday                   69 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
@@ -149,15 +149,15 @@ Sunday                   69 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     2 hrs 24 mins       ████████████████░░░░░░░░░   62.03 % 
-JSON                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Java                     3 hrs 26 mins       ████████████████░░░░░░░░░   64.06 % 
+HTML                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 14 mins       █████████████████████░░░░   83.58 % 
-WebStorm                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+IntelliJ IDEA            3 hrs 55 mins       ██████████████████░░░░░░░   73.09 % 
+WebStorm                 1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
 ```
 
 **I Mostly Code in TypeScript** 
