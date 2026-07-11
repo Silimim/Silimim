@@ -104,11 +104,11 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C209%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.57%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.38%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -125,21 +125,21 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1324 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-🌆 Daytime                2995 commits        ████████████████░░░░░░░░░   63.80 % 
-🌃 Evening                333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+🌞 Morning                704 commits         █████████░░░░░░░░░░░░░░░░   34.06 % 
+🌆 Daytime                1303 commits        ████████████████░░░░░░░░░   63.04 % 
+🌃 Evening                50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   795 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Tuesday                  947 commits         █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Wednesday                699 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 1303 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-Friday                   748 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Saturday                 133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Sunday                   69 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Monday                   379 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Tuesday                  456 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Wednesday                376 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Thursday                 429 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Friday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Saturday                 17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 
@@ -149,15 +149,16 @@ Sunday                   69 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     3 hrs 26 mins       ████████████████░░░░░░░░░   64.06 % 
-HTML                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Java                     4 hrs 42 mins       ████████████████░░░░░░░░░   62.67 % 
+HTML                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 55 mins       ██████████████████░░░░░░░   73.09 % 
-WebStorm                 1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+IntelliJ IDEA            5 hrs 32 mins       ██████████████████░░░░░░░   73.83 % 
+WebStorm                 1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in TypeScript** 
