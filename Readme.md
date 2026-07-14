@@ -108,13 +108,13 @@ const simone = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 199.2 kB Used in GitHub's Storage 
  > 
-> 🏆 393 Contributions in the Year 2026
+> 🏆 398 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -125,21 +125,21 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1327 commits        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-🌆 Daytime                3036 commits        ███████████████░░░░░░░░░░   61.98 % 
-🌃 Evening                454 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-🌙 Night                  81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+🌞 Morning                442 commits         █████████░░░░░░░░░░░░░░░░   35.05 % 
+🌆 Daytime                764 commits         ███████████████░░░░░░░░░░   60.59 % 
+🌃 Evening                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   795 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Tuesday                  966 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Wednesday                753 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Thursday                 1351 commits        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-Friday                   781 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Saturday                 147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Sunday                   105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Monday                   211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Tuesday                  294 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Wednesday                244 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Thursday                 267 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Friday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Saturday                 17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 
@@ -149,15 +149,15 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     4 hrs 42 mins       ████████████████░░░░░░░░░   62.67 % 
-HTML                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Java                     4 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.72 % 
+TypeScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+JSON                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+HTML                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+XML                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 32 mins       ██████████████████░░░░░░░   73.83 % 
-WebStorm                 1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+IntelliJ IDEA            5 hrs 31 mins       ████████████████░░░░░░░░░   63.90 % 
+WebStorm                 3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.08 % 
 GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
