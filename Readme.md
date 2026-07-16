@@ -104,7 +104,7 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C217%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C226%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -125,19 +125,19 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                705 commits         ████████░░░░░░░░░░░░░░░░░   33.93 % 
-🌆 Daytime                1313 commits        ████████████████░░░░░░░░░   63.19 % 
+🌞 Morning                705 commits         ████████░░░░░░░░░░░░░░░░░   33.91 % 
+🌆 Daytime                1314 commits        ████████████████░░░░░░░░░   63.20 % 
 🌃 Evening                50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   379 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Tuesday                  465 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Wednesday                378 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Thursday                 429 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-Friday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Monday                   379 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Tuesday                  465 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Wednesday                378 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Thursday                 430 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Friday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
 Saturday                 17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
@@ -149,16 +149,16 @@ Sunday                   7 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     6 hrs 50 mins       ██████████████░░░░░░░░░░░   56.29 % 
-TypeScript               1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-JSON                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-HTML                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Java                     8 hrs 22 mins       ██████████████░░░░░░░░░░░   56.89 % 
+JSON                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+TypeScript               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+HTML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 18 mins       █████████████████░░░░░░░░   68.40 % 
-WebStorm                 3 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
-GoLand                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+IntelliJ IDEA            10 hrs 24 mins      ██████████████████░░░░░░░   70.81 % 
+WebStorm                 4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+GoLand                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 **I Mostly Code in TypeScript** 
