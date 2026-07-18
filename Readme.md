@@ -104,11 +104,11 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C223%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C226%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.57%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -125,21 +125,21 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                705 commits         ████████░░░░░░░░░░░░░░░░░   33.91 % 
-🌆 Daytime                1314 commits        ████████████████░░░░░░░░░   63.20 % 
-🌃 Evening                50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+🌞 Morning                1325 commits        ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+🌆 Daytime                3006 commits        ████████████████░░░░░░░░░   63.88 % 
+🌃 Evening                333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+🌙 Night                  42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   379 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Tuesday                  465 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Wednesday                378 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Thursday                 430 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Friday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Saturday                 17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Monday                   795 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Tuesday                  956 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Wednesday                701 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Thursday                 1304 commits        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Friday                   748 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Saturday                 133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Sunday                   69 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
@@ -149,16 +149,16 @@ Sunday                   7 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     8 hrs 46 mins       ███████████████░░░░░░░░░░   59.16 % 
-JSON                     2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-TypeScript               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Java                     8 hrs 8 mins        ███████████████░░░░░░░░░░   58.93 % 
+JSON                     2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+TypeScript               1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 12 mins      ███████████████████░░░░░░   75.54 % 
-WebStorm                 3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-GoLand                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+IntelliJ IDEA            10 hrs 10 mins      ██████████████████░░░░░░░   73.74 % 
+WebStorm                 3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+GoLand                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 
 **I Mostly Code in TypeScript** 
