@@ -104,8 +104,6 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C240%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.04%20million%20lines%20of%20code-blue?style=flat)
@@ -149,15 +147,15 @@ Sunday                   81 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     6 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.80 % 
-JSON                     4 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
-textmate                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-SCSS                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-TypeScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Java                     7 hrs 30 mins       ██████████████░░░░░░░░░░░   55.81 % 
+JSON                     3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+textmate                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+SCSS                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+TypeScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 50 mins       █████████████████░░░░░░░░   69.82 % 
-WebStorm                 3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
+IntelliJ IDEA            9 hrs 51 mins       ██████████████████░░░░░░░   73.25 % 
+WebStorm                 3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
 ```
 
 **I Mostly Code in TypeScript** 
