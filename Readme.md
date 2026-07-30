@@ -110,7 +110,7 @@ const simone = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.10%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -127,21 +127,21 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1237 commits        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-🌆 Daytime                2841 commits        ████████████████░░░░░░░░░   63.08 % 
-🌃 Evening                382 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-🌙 Night                  44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+🌞 Morning                1414 commits        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+🌆 Daytime                3161 commits        ████████████████░░░░░░░░░   63.14 % 
+🌃 Evening                387 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌙 Night                  44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   737 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Tuesday                  904 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Wednesday                661 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Thursday                 1254 commits        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-Friday                   715 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Saturday                 152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Sunday                   81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Monday                   831 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Tuesday                  1014 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Wednesday                763 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Thursday                 1360 commits        ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+Friday                   805 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Saturday                 152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Sunday                   81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 
 
@@ -151,40 +151,40 @@ Sunday                   81 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     7 hrs 17 mins       █████████████░░░░░░░░░░░░   50.37 % 
-XML                      2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-JSON                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Java                     7 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.91 % 
+XML                      3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+GDScript3                1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 35 mins       █████████████░░░░░░░░░░░░   52.45 % 
-Claude Code              4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
-WebStorm                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Rider                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Claude Code              9 hrs 51 mins       ███████████████░░░░░░░░░░   58.54 % 
+IntelliJ IDEA            5 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.97 % 
+WebStorm                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Rider                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 49 mins (33.3%)
+⏱ AI Coding Time: 10 hrs 22 mins (61.63%)
 
-✍️ 1,601 lines written by AI, 243 lines written by hand (86.82% AI-written)
+✍️ 3,527 lines written by AI, 158 lines written by hand (95.71% AI-written)
 
-🔤 111,420,430 Input Tokens, 301,595 Output Tokens
+🔤 311,879,875 Input Tokens, 678,393 Output Tokens
 
-💵 $513.83 Estimated AI Cost This Week
+💵 $1504.97 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 13 AI Prompts
+🧠 5 AI Sessions, 26 AI Prompts
 
-Opus                     1,530 lines         █████████████████████░░░░   84.39 % 
-Sonnet                   283 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Opus                     3,299 lines         ████████████████████░░░░░   81.36 % 
+Sonnet                   756 lines           █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.82% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 34.41% of changed lines were hand-edited
+🤖 AI-Driven — 95.71% of written lines came from AI
+📝 Concise Prompter — average 95 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 11.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
