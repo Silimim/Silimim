@@ -104,6 +104,10 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C558%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.10%20million%20lines%20of%20code-blue?style=flat)
@@ -147,39 +151,16 @@ Sunday                   81 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     1 hr 40 mins        ██████████████████░░░░░░░   71.27 % 
-TypeScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-SQL                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 20 mins        ██████████████░░░░░░░░░░░   56.97 % 
-IntelliJ IDEA            54 mins             ██████████░░░░░░░░░░░░░░░   38.86 % 
-WebStorm                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Claude Code              0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 5 mins (88.63%)
-
-✍️ 117 lines written by AI, 25 lines written by hand (82.39% AI-written)
-
-🔤 9,989,141 Input Tokens, 50,476 Output Tokens
-
-💵 $240.13 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 6 AI Prompts
-
-Sonnet                   358 lines           ████████████████░░░░░░░░░   62.81 % 
-Opus                     212 lines           █████████░░░░░░░░░░░░░░░░   37.19 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 82.39% of written lines came from AI
-📝 Concise Prompter — average 266 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 19.59% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
