@@ -104,13 +104,13 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C558%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C558%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -127,21 +127,21 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1415 commits        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-🌆 Daytime                3163 commits        ████████████████░░░░░░░░░   63.15 % 
-🌃 Evening                387 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-🌙 Night                  44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+🌞 Morning                1419 commits        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+🌆 Daytime                3215 commits        ███████████████░░░░░░░░░░   60.92 % 
+🌃 Evening                547 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+🌙 Night                  96 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   831 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Tuesday                  1014 commits        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Wednesday                763 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Thursday                 1361 commits        ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-Friday                   807 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Saturday                 152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Sunday                   81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Monday                   831 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Tuesday                  1039 commits        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Wednesday                835 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Thursday                 1425 commits        ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+Friday                   850 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Saturday                 168 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Sunday                   129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -151,10 +151,13 @@ Sunday                   81 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     17 mins             █████████████████████████   99.96 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Claude Code              0 secs              █████████████████████████   100.00 % 
+IntelliJ IDEA            17 mins             █████████████████████████   99.26 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 🤖 **AI Coding This Week** 
