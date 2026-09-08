@@ -127,8 +127,8 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1425 commits        ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-🌆 Daytime                3192 commits        ████████████████░░░░░░░░░   63.21 % 
+🌞 Morning                1425 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+🌆 Daytime                3193 commits        ████████████████░░░░░░░░░   63.22 % 
 🌃 Evening                388 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 🌙 Night                  45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
@@ -136,9 +136,9 @@ const simone = {
 
 ```text
 Monday                   851 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Tuesday                  1024 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Tuesday                  1025 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
 Wednesday                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Thursday                 1369 commits        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Thursday                 1369 commits        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
 Friday                   807 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 Saturday                 152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 Sunday                   81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
@@ -151,40 +151,40 @@ Sunday                   81 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     7 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.65 % 
-JSON                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-TypeScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-XML                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Java                     5 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.33 % 
+JSON                     2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+TypeScript               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+XML                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.31 % 
-Claude Code              6 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.60 % 
-WebStorm                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-GoLand                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Claude Code              8 hrs 8 mins        ██████████████░░░░░░░░░░░   55.65 % 
+IntelliJ IDEA            5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.84 % 
+WebStorm                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+GoLand                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 13 mins (58.01%)
+⏱ AI Coding Time: 11 hrs 24 mins (77.98%)
 
-✍️ 2,713 lines written by AI, 200 lines written by hand (93.13% AI-written)
+✍️ 4,921 lines written by AI, 173 lines written by hand (96.6% AI-written)
 
-🔤 2,610,941 Input Tokens, 593,269 Output Tokens
+🔤 3,042,203 Input Tokens, 847,539 Output Tokens
 
-💵 $85.07 Estimated AI Cost This Week
+💵 $116.87 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 40 AI Prompts
+🧠 23 AI Sessions, 55 AI Prompts
 
-Opus                     2,509 lines         ███████████████████████░░   91.00 % 
-Sonnet                   248 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Opus                     4,157 lines         █████████████████████░░░░   83.66 % 
+Sonnet                   812 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.13% of written lines came from AI
-📄 Detailed Prompter — average 890 characters per prompt
+🤖 AI-Driven — 96.6% of written lines came from AI
+📄 Detailed Prompter — average 704 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.66% of changed lines were hand-edited
+🚀 High AI Trust — 5.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
