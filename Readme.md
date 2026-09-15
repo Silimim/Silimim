@@ -104,9 +104,9 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C585%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C586%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -127,8 +127,8 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1425 commits        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-🌆 Daytime                3201 commits        ████████████████░░░░░░░░░   63.27 % 
+🌞 Morning                1426 commits        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+🌆 Daytime                3201 commits        ████████████████░░░░░░░░░   63.26 % 
 🌃 Evening                388 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 🌙 Night                  45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
@@ -136,9 +136,9 @@ const simone = {
 
 ```text
 Monday                   851 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Tuesday                  1025 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Tuesday                  1026 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
 Wednesday                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Thursday                 1375 commits        ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+Thursday                 1375 commits        ███████░░░░░░░░░░░░░░░░░░   27.17 % 
 Friday                   809 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 Saturday                 152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 Sunday                   81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
@@ -151,39 +151,39 @@ Sunday                   81 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     4 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.57 % 
-Python                   1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-JSON                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-SQL                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Java                     5 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.34 % 
+Python                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+SQL                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 57 mins       ████████████████░░░░░░░░░   62.70 % 
-IntelliJ IDEA            4 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
-WebStorm                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Claude Code              6 hrs 37 mins       ██████████████░░░░░░░░░░░   56.61 % 
+IntelliJ IDEA            4 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   40.97 % 
+WebStorm                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 56 mins (78.42%)
+⏱ AI Coding Time: 8 hrs 37 mins (73.74%)
 
-✍️ 6,632 lines written by AI, 6 lines written by hand (99.91% AI-written)
+✍️ 5,077 lines written by AI, 207 lines written by hand (96.08% AI-written)
 
-🔤 2,430,856 Input Tokens, 828,651 Output Tokens
+🔤 2,154,115 Input Tokens, 642,291 Output Tokens
 
-💵 $95.07 Estimated AI Cost This Week
+💵 $66.90 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 71 AI Prompts
+🧠 17 AI Sessions, 57 AI Prompts
 
-Opus                     5,893 lines         ██████████████████████░░░   88.26 % 
-Sonnet                   784 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Opus                     4,904 lines         ████████████████████████░   95.71 % 
+Sonnet                   220 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 3,781 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🤖 AI-Driven — 96.08% of written lines came from AI
+📚 Verbose Prompter — average 4,792 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
