@@ -127,16 +127,16 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1585 commits        ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-🌆 Daytime                3351 commits        ████████████████░░░░░░░░░   62.36 % 
+🌞 Morning                1586 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+🌆 Daytime                3351 commits        ████████████████░░░░░░░░░   62.34 % 
 🌃 Evening                393 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 🌙 Night                  45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   957 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Tuesday                  1081 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Monday                   957 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Tuesday                  1082 commits        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
 Wednesday                837 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 Thursday                 1420 commits        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
 Friday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
@@ -151,39 +151,39 @@ Sunday                   81 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Go                       2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Python                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Go                       1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+Java                     1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Python                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+TypeScript               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 16 mins       ██████████████░░░░░░░░░░░   57.35 % 
-IntelliJ IDEA            2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-GoLand                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-WebStorm                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Claude Code              3 hrs 47 mins       ███████████████░░░░░░░░░░   60.47 % 
+GoLand                   1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+IntelliJ IDEA            59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+WebStorm                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 18 mins (79.47%)
+⏱ AI Coding Time: 5 hrs 9 mins (82.3%)
 
-✍️ 11,372 lines written by AI, 17 lines written by hand (99.85% AI-written)
+✍️ 9,916 lines written by AI, 16 lines written by hand (99.84% AI-written)
 
-🔤 2,592,204 Input Tokens, 588,141 Output Tokens
+🔤 1,542,649 Input Tokens, 464,592 Output Tokens
 
-💵 $93.59 Estimated AI Cost This Week
+💵 $71.08 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 35 AI Prompts
+🧠 9 AI Sessions, 22 AI Prompts
 
-Opus                     11,470 lines        █████████████████████████   100.00 % 
+Opus                     10,003 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 2,011 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.55% of changed lines were hand-edited
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 3,107 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
