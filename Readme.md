@@ -104,11 +104,11 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C605%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C606%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -116,7 +116,7 @@ const simone = {
 
 > 📦 199.5 kB Used in GitHub's Storage 
  > 
-> 🏆 429 Contributions in the Year 2026
+> 🏆 435 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -127,21 +127,21 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1588 commits        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-🌆 Daytime                3352 commits        ████████████████░░░░░░░░░   62.33 % 
-🌃 Evening                393 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+🌞 Morning                1588 commits        ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+🌆 Daytime                3356 commits        ████████████████░░░░░░░░░   62.33 % 
+🌃 Evening                395 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 🌙 Night                  45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   957 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Tuesday                  1083 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Wednesday                839 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Thursday                 1420 commits        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-Friday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Saturday                 152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Sunday                   81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Monday                   957 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Tuesday                  1083 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Wednesday                839 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Thursday                 1420 commits        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+Friday                   852 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Saturday                 152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Sunday                   81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 
 
@@ -151,37 +151,37 @@ Sunday                   81 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     1 hr 38 mins        ██████████████░░░░░░░░░░░   56.22 % 
-TypeScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-PowerShell               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Go                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Java                     2 hrs 18 mins       ███████████████░░░░░░░░░░   59.16 % 
+TypeScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+PowerShell               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-Claude Code              1 hr 37 mins        ██████████████░░░░░░░░░░░   55.37 % 
-IntelliJ IDEA            57 mins             ████████░░░░░░░░░░░░░░░░░   32.57 % 
-WebStorm                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-GoLand                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Claude Code              2 hrs 19 mins       ███████████████░░░░░░░░░░   59.50 % 
+IntelliJ IDEA            1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+WebStorm                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+GoLand                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (60.58%)
+⏱ AI Coding Time: 2 hrs 37 mins (66.84%)
 
-✍️ 752 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 928 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 710,318 Input Tokens, 144,733 Output Tokens
+🔤 944,723 Input Tokens, 188,009 Output Tokens
 
-💵 $12.82 Estimated AI Cost This Week
+💵 $14.60 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 14 AI Prompts
+🧠 12 AI Sessions, 20 AI Prompts
 
-Opus                     865 lines           █████████████████████████   100.00 % 
+Opus                     1,041 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 405 characters per prompt
+📄 Detailed Prompter — average 1,106 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -189,11 +189,11 @@ Opus                     865 lines           ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            █████████░░░░░░░░░░░░░░░░   37.74 % 
-Go                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Wolfram Language         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               20 repos            █████████░░░░░░░░░░░░░░░░   37.04 % 
+Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Wolfram Language         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
