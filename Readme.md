@@ -104,9 +104,9 @@ const simone = {
 ## ⏱️ Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C617%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C621%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -151,39 +151,39 @@ Sunday                   141 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Other                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-SQL                      1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Markdown                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Go                       36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Java                     2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+SQL                      1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Other                    1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 4 mins        ███████████████░░░░░░░░░░   59.98 % 
-IntelliJ IDEA            2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-GoLand                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-WebStorm                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Claude Code              7 hrs 36 mins       ████████████████░░░░░░░░░   64.95 % 
+IntelliJ IDEA            2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+GoLand                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+WebStorm                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 36 mins (66.23%)
+⏱ AI Coding Time: 8 hrs 30 mins (72.69%)
 
-✍️ 2,366 lines written by AI, 393 lines written by hand (85.76% AI-written)
+✍️ 3,017 lines written by AI, 340 lines written by hand (89.87% AI-written)
 
-🔤 2,049,100 Input Tokens, 517,693 Output Tokens
+🔤 2,869,543 Input Tokens, 673,183 Output Tokens
 
-💵 $28.65 Estimated AI Cost This Week
+💵 $41.57 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 44 AI Prompts
+🧠 27 AI Sessions, 55 AI Prompts
 
-Opus                     2,385 lines         █████████████████████████   100.00 % 
+Opus                     3,034 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.76% of written lines came from AI
-📚 Verbose Prompter — average 3,332 characters per prompt
+🤖 AI-Driven — 89.87% of written lines came from AI
+📚 Verbose Prompter — average 3,314 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 14.33% of changed lines were hand-edited
+🚀 High AI Trust — 10.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
