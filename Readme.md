@@ -116,7 +116,7 @@ const simone = {
 
 > 📦 234.6 kB Used in GitHub's Storage 
  > 
-> 🏆 531 Contributions in the Year 2026
+> 🏆 532 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -127,19 +127,19 @@ const simone = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1631 commits        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-🌆 Daytime                3466 commits        ███████████████░░░░░░░░░░   59.19 % 
-🌃 Evening                648 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-🌙 Night                  111 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+🌞 Morning                1632 commits        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+🌆 Daytime                3470 commits        ███████████████░░░░░░░░░░   59.20 % 
+🌃 Evening                648 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+🌙 Night                  111 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   961 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Tuesday                  1144 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Wednesday                976 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 1544 commits        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-Friday                   916 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Monday                   961 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Tuesday                  1144 commits        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Wednesday                976 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Thursday                 1549 commits        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+Friday                   916 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 Saturday                 174 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 Sunday                   141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
@@ -151,39 +151,38 @@ Sunday                   141 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-JSON                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+JSON                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Java                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+TypeScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 20 mins       ████████████████████░░░░░   78.24 % 
-IntelliJ IDEA            53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-WebStorm                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              4 hrs 2 mins        ███████████████████░░░░░░   75.11 % 
+IntelliJ IDEA            1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+WebStorm                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 47 mins (86.5%)
+⏱ AI Coding Time: 4 hrs 29 mins (83.64%)
 
-✍️ 3,722 lines written by AI, 4 lines written by hand (99.89% AI-written)
+✍️ 3,698 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
-🔤 2,011,875 Input Tokens, 561,502 Output Tokens
+🔤 1,987,885 Input Tokens, 548,760 Output Tokens
 
-💵 $45.50 Estimated AI Cost This Week
+💵 $44.22 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 36 AI Prompts
+🧠 14 AI Sessions, 37 AI Prompts
 
-Opus                     3,758 lines         █████████████████████████   100.00 % 
+Opus                     3,733 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📄 Detailed Prompter — average 738 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📄 Detailed Prompter — average 1,063 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
